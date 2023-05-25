@@ -9,7 +9,7 @@ The main focus of this project was to dive into the world of Tailwind CSS and im
 - How to implement dynamic animations using react-typed
 - How to use React Icons for a more visually appealing interface
 
-live link : https://profound-pudding-b91efc.netlify.app/
+live link : purrfectpaws.netlify.app/
 
 
 "Cats have the courage to live by themselves, which is the courage of a hero." - Joshua Billings
